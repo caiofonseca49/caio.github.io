@@ -2,7 +2,7 @@
 share: true  
 layout: page
 title: Início
-permalink: Início.md
+permalink: Início
 ---  
   
   
