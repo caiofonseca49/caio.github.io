@@ -2,68 +2,67 @@
 share: true  
 layout: page  
 ---  
-
   
   
-[Hospício Químico](Hospício%20Químico.md)  
+[Hospício Químico](Hospício%20Químico)  
   
-[Clínica Psiquiátrica](Clínica%20Psiquiátrica.md)  
+[Clínica Psiquiátrica](Clínica%20Psiquiátrica)  
   
-[Remédios](Remédios.md)  
+[Remédios](Remédios)  
   
-[Internação](Internação.md)  
+[Internação](Internação)  
   
-[Cesto Rosa](Cesto%20Rosa.md)  
+[Cesto Rosa](Cesto%20Rosa)  
   
-[Minha Mãe](Minha%20Mãe.md)  
+[Minha Mãe](Minha%20Mãe)  
   
-[Tricô](Tricô.md)  
+[Tricô](Tricô)  
   
-[Tarô](Tarô.md)  
+[Tarô](Tarô)  
   
-[Xadrez](Xadrez.md)  
+[Xadrez](Xadrez)  
   
-[Fotografia](Fotografia.md)  
+[Fotografia](Fotografia)  
   
-[Vozes](Vozes.md)  
+[Vozes](Vozes)  
   
-[Realidade](Realidade.md)  
+[Realidade](Realidade)  
   
-[Monografia](Monografia.md)  
+[Monografia](Monografia)  
   
-[Minha Ex](Minha%20Ex.md)  
+[Minha Ex](Minha%20Ex)  
   
-[Bacon](Bacon.md)  
+[Bacon](Bacon)  
   
-[A Montanha Mágica](A%20Montanha%20Mágica.md)  
+[A Montanha Mágica](A%20Montanha%20Mágica)  
   
-[Pandemia](Pandemia.md)  
+[Pandemia](Pandemia)  
   
-[Tempo](Tempo.md)  
+[Tempo](Tempo)  
   
-[Grande Sertão: Veredas](Grande%20Sertão%20Veredas.md)  
+[Grande Sertão: Veredas](Grande%20Sertão%20Veredas)  
   
-[Chácara](Chácara.md)  
+[Chácara](Chácara)  
   
-[Hirata](Hirata.md)  
+[Hirata](Hirata)  
   
-[Casa da Avó](Casa%20da%20Avó.md)  
+[Casa da Avó](Casa%20da%20Avó)  
   
-[Mudança de Apartamento](Mudança%20de%20Apartamento.md)  
+[Mudança de Apartamento](Mudança%20de%20Apartamento)  
   
-[Solidão](Solidão.md)  
+[Solidão](Solidão)  
   
-[Saúde Mental](Saúde%20Mental.md)  
+[Saúde Mental](Saúde%20Mental)  
   
-[Internet](Internet.md)  
+[Internet](Internet)  
   
-[Despedida da Avó](Despedida%20da%20Avó.md)  
+[Despedida da Avó](Despedida%20da%20Avó)  
   
-[Café e Cigarro](Café%20e%20Cigarro.md)  
+[Café e Cigarro](Café%20e%20Cigarro)  
   
-[Varanda](Varanda.md)  
+[Varanda](Varanda)  
   
-[](zzzUntitled.md)  
+[](zzzUntitled)  
   
-[zzzzkk](zzzzkk.md)  
+[zzzzkk](zzzzkk)  
   
