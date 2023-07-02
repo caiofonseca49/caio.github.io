@@ -2,7 +2,7 @@
 share: true  
 layout: page
 title: Início
-permalink: https://caiofonseca49.github.io/caio.github.io/Início
+permalink: Início
 ---  
   
   
