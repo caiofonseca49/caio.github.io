@@ -1,8 +1,8 @@
 ---  
 share: true  
-layout: home
+layout: page
 title: Início
-permalink: Início
+permalink: Início.html
 ---  
   
   
