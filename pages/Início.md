@@ -1,6 +1,6 @@
 ---  
 share: true  
-layout: page
+layout: home
 title: Início
 permalink: Início
 ---  
