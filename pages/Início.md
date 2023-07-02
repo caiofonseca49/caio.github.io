@@ -1,13 +1,14 @@
 ---  
 share: true  
+layout: page  
 ---  
   
   
-[Hospício Químico ](Hospício%20Químico.md)  
+[Hospício Químico](Hospício%20Químico)  
   
-[Clínica Psiquiátrica](Clínica%20Psiquiátrica.md)  
+[Clínica Psiquiátrica](Clínica%20Psiquiátrica)  
   
-[Remédios](Remédios.md)  
+[Remédios](Remédios)  
   
 [Internação](Internação.md)  
   
@@ -35,7 +36,7 @@ share: true
   
 [A Montanha Mágica](A%20Montanha%20Mágica.md)  
   
-[Pandemia](Pandemia.md)  
+[Pandemia](Pandemia)  
   
 [Tempo](Tempo.md)  
   
