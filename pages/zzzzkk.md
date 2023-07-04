@@ -68,7 +68,7 @@ medo
   
   
 |a|b|c|  
-|---|---|-------|  
+|---|---|-|  
 |[Hospício Químico ](Hospício%20Químico)| [Clínica Psiquiátrica](Clínica%20Psiquiátrica)|[Remédios](Remédios)   
 |[Internação](Internação)| [Cesto Rosa](Cesto%20Rosa)| [Minha Mãe](Minha%20Mãe)|   
 |[Tricô](Tricô) |[Tarô](Tarô) |[Xadrez](Xadrez)  
