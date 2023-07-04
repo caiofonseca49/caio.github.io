@@ -11,7 +11,11 @@ Os dias eram todos iguais, pouco importava se era segunda, quinta, ou sábado. A
   
 Meu único contato com o mundo lá fora era por meio da [internet](Internet); mais especificamente, a pequena tela do meu celular delimitava quase que por completo o que então eu tomava como [realidade](Realidade). Não consigo me recordar de nada do que tenha visto naquela tela, pois, tal como o tempo, as informações, mensagens e imagens pareciam infinitas, uma se sobrepondo à outra, e, portanto, se tornavam imediatamente descartáveis.  
   
-Penso que essa falta de memória talvez tenha certa relação com uma falta de experiência, no sentido de que a experiência seria a matéria a partir da qual pode haver memória. Digo isso porque, naquele contexto, a sobreposição de informações não passava de uma sequência de instantes, ou estímulos, desvinculados entre si e indiferentes à passagem do tempo: não havia uma narrativa, um começo ou um fim, e por isso havia apenas o agora.  
+Penso que essa falta de memória talvez tenha certa relação com uma falta de experiência, no sentido de que a experiência seria a matéria a partir da qual pode haver memória. Digo isso porque, naquele contexto, a sobreposição de informações não passava de uma sequência de instantes, ou estímulos, desvinculados entre si e indiferentes à passagem do tempo: não havia uma narrativa, um começo ou um fim, e por isso havia apenas o agora. Nesse caso, acredito que a experiência esteja necessariamente vinculada à relação entre tempo e espaço, o que aqui me faz lembrar da ideia de cronotopo, sobre a qual fala [Bakhtin](Monografia).  
+  
+  
+  
+  
   
   
   
