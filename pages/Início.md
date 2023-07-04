@@ -2,6 +2,8 @@
 share: true  
 redirect_from: /  
 ---  
+# Início  
+  
 | | | |  
 |-|-|-|-|  
 |[Hospício Químico](Hospício%20Químico)|[Clínica Psiquiátrica](Clínica%20Psiquiátrica)|[Remédios](Remédios)|[Internação](Internação)  
