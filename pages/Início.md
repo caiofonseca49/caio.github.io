@@ -13,5 +13,8 @@ redirect_from: /
 |[Pandemia](Pandemia)|[Tempo](Tempo)|[Grande Sertão: Veredas](Grande%20Sertão%20Veredas)|[Chácara](Chácara)  
 |[Hirata](Hirata)|[Casa da Avó](Casa%20da%20Avó)|[Mudança de Apartamento](Mudança%20de%20Apartamento)|[Solidão](Solidão)  
 |[Saúde Mental](Saúde%20Mental)|[Internet](Internet)|[Despedida da Avó](Despedida%20da%20Avó)|[Café e Cigarro](Café%20e%20Cigarro)  
-|[Varanda](Varanda)|[](zzzUntitled)|[zzzzkk](zzzzkk)  
+|[Varanda](Varanda)| | |   
+  
+  
+  
   

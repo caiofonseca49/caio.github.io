@@ -1,6 +1,7 @@
 ---  
 share: true  
 ---  
+# Pandemia  
   
   
 Quando começou a pandemia, fazia já um ano que eu estava afundado em depressão, praticamente sem sair da cama. Foi muito frustrante quando as aulas da UnB foram suspensas, pois após esse ano em que tranquei o curso eu havia me enchido de expectativas de que, finalmente, com o início do semestre voltaria a ter uma vida minimamente normal, na qual conseguiria interagir com outros seres humanos. Além disso, esperava poder terminar de escrever minha [monografia](Monografia) e, depois de muitas dificuldades, concluir a graduação.  
@@ -11,7 +12,9 @@ Os dias eram todos iguais, pouco importava se era segunda, quinta, ou sábado. A
   
 Meu único contato com o mundo lá fora era por meio da [internet](Internet); mais especificamente, a pequena tela do meu celular delimitava quase que por completo o que então eu tomava como [realidade](Realidade). Não consigo me recordar de nada do que tenha visto naquela tela, pois, tal como o tempo, as informações, mensagens e imagens pareciam infinitas, uma se sobrepondo à outra, e, portanto, se tornavam imediatamente descartáveis.  
   
-Penso que essa falta de memória talvez tenha certa relação com uma falta de experiência, no sentido de que a experiência seria a matéria a partir da qual pode haver memória. Digo isso porque, naquele contexto, a sobreposição de informações não passava de uma sequência de instantes, ou estímulos, desvinculados entre si e indiferentes à passagem do tempo: não havia uma narrativa, um começo ou um fim, e por isso havia apenas o agora. Nesse caso, acredito que a experiência esteja necessariamente vinculada à relação entre tempo e espaço, o que aqui me faz lembrar da ideia de cronotopo, sobre a qual fala [Bakhtin](Monografia).  
+Penso que essa falta de memória talvez tenha certa relação com uma falta de experiência, no sentido de que a experiência seria a matéria a partir da qual pode haver memória. Digo isso porque, naquele contexto, a sobreposição de informações não passava de uma sequência de instantes, ou estímulos, desvinculados entre si e indiferentes à passagem do tempo: não havia uma narrativa, um começo ou um fim, e por isso havia apenas o agora. Nesse caso, acredito que a experiência esteja necessariamente vinculada à relação entre tempo e espaço – o que aqui me faz lembrar da ideia de cronotopo, sobre a qual fala [Bakhtin](Monografia) –, pois a aparente ausência de passagem do tempo, como um permanente presente, não permitia que essa sequência de instantes fosse efetivamente digerida e assim pudesse se desenvolver de fato na construção de um sentido.  
+  
+Por outro lado, a imobilidade do espaço à qual eu estava sujeito nesse período da pandemia, como que enclausurado naquele apartamento, intensificava essa situação de esvaziamento de sentido.   
   
   
   
