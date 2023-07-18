@@ -9,6 +9,9 @@ share: true
 [Início](Início)  
 </div>  
   
+{:.quali}  
+![qualificação](qualificação.pdf)  
+[qualificação](qualificação.pdf)  
   
 ![termo](termo.pdf)  
   
