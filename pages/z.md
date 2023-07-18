@@ -2,19 +2,27 @@
 share: true  
 ---   
   
-<div class="medo">  
+  
+<div class="lis">  
+[Início](Início)  
+</div>  
+  
+- [Início](Início)  
+- medo  
+<div class="medo"><ul>  
 <li>a</li>  
 <li>b</li>  
-<li>c</li>  
+<li>c</li></ul>  
 </div>  
   
 ---  
-- a  
-- b  
-- c  
-  
-  
-  
+```mermaid  
+flowchart LR  
+	a --> b & c   
+	b --> d & e  
+	c --> f  
+	d & f --> e  
+```  
   
   
   
