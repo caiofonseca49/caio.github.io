@@ -1,7 +1,20 @@
 ---  
 share: true  
 ---   
-<p id="medox" class="medoxx">medo</p>  
+  
+<div class="medo">  
+<li>a</li>  
+<li>b</li>  
+<li>c</li>  
+</div>  
+  
+---  
+- a  
+- b  
+- c  
+  
+  
+  
   
   
   
