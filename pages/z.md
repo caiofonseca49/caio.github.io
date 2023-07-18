@@ -1,13 +1,19 @@
 ---  
 share: true  
 ---   
-  
+{:.medo}  
+[Início](Início)  
+<span class="x">[Início](Início)</span>  
   
 <div class="lis">  
 [Início](Início)  
 </div>  
   
-- [Início](Início)  
+  
+  
+  
+- [Início](Início|in) { .x }  
+-   
 - medo  
 <div class="medo"><ul>  
 <li>a</li>  
