@@ -3,7 +3,7 @@ share: true
 ---  
   
   
-Caio Fonseca[^*]  
+Caio Fonseca[^1]  
   
 2021  
   
@@ -20,8 +20,7 @@ Publicado por Thomas Mann em 1924, *A Montanha Mágica* é um romance no qual a 
   
 A relevância do tempo em meio ao espaço narrativo é tratada por Mikhail Bakhtin, que chama esta relação de cronotopo. Neste caso, a temporalidade se constrói em adequação à natureza do próprio gênero do discurso.  
   
-[^*]: Bacharel em Comunicação Social -- Audiovisual pela Universidade de  
- Brasília (UnB)  
+[^1]: Bacharel em Comunicação Social – Audiovisual pela Universidade de Brasília (UnB)  
   
   
   
@@ -37,6 +36,7 @@ Contudo, Hans Castorp eventualmente se descobre também enfermo, e decide perman
   
 Motivado por este marco histórico para o Ocidente que foi a Primeira Guerra Mundial, com suas consequentes transformações sociais, políticas e culturais, o narrador inicia o romance dirigindo sua atenção à natureza do tempo e seu papel em uma narrativa:  
   
+{:.quote}  
 \[. . . \] É necessário que as histórias já se tenham passado, e quanto mais mergulhadas no passado, caberia dizer, melhor corresponde-rão à sua qualidade essencial de histórias, e mais adequadas serão ao narrador, esse mago que evoca o pretérito. Acontece, porém, com a história o que hoje também acontece com os homens, e entre eles, não em último lugar, com os narradores de histórias: ela é muito mais velha que seus anos; sua vetustez não pode ser medida por dias, nem o tempo que sobre ela pesa, por revoluções em torno do sol. Numa palavra, não é propriamente ao *tempo* que a história deve o seu grau de antiguidade -- e o que se pretende com essa observação feita de passagem é aludir e remeter ao caráter problemático e à peculiar duplicidade desse elemento misterioso (MANN, 2016, p. 11).  
   
 Esse "elemento misterioso" é central no desenvolvimento narrativo de *A Montanha Mágica*. Por meio de diálogos que Hans Castorp tem com várias personagens, bem como por meio de introspecções mais subjetivas, o tema do tempo é um motivo que se repete com frequência por todo o romance.  
@@ -45,10 +45,12 @@ Uma das questões levantadas pelo protagonista é o aspecto psicológico do temp
   
 Essa ideia de que a consciência de um tempo objetivamente uniforme resulta na percepção subjetiva de uma temporalidade não-uniforme leva-o a conclusões sobre o tédio que sente:  
   
+{:.quote}  
 O que se chama tédio é, portanto, na realidade, antes uma bre-vidade mórbida do tempo, provocada pela monotonia: em casos de igualdade contínua, os grandes lapsos de tempo chegam a encolher-se a tal ponto que causam ao coração um susto mortal; quando um dia é como todos, todos são como um só; passada numa uniformidade perfeita, a mais longa vida seria sentida como brevíssima e decorreria num abrir e fechar de olhos (MANN, 2016, pp. 123-124).  
   
 A monotonia do tédio, para Hans Castorp, está intimamente relacionada à existência do hábito. Em suas divagações, o herói observa que a manutenção do hábito – ou sua mudança – influencia diretamente a percepção do tempo e seu consequente grau de monotonia. Neste caso:  
   
+{:.quote}  
 O hábito representa a modorra, ou ao menos o enfraquecimento, do senso de tempo, e o fato dos anos de infância serem vividos mais vagarosamente, ao passo que a vida posterior se desenrola e foge cada vez mais depressa -- esse fato também se baseia no hábito. Sabemos perfeitamente que a intercalação de mudanças de hábitos, ou de hábitos novos, constitui o único meio para manter a nossa vida, para refrescar a nossa sensação de tempo, para obter um rejuvenescimento, um reforço, uma retardação da nossa experiência do tempo, e com isso, o renovamento da nossa sensação de vida em geral (MANN, 2016, p. 124).  
   
 Outro aspecto relevante em *A Montanha Mágica* é a forma de sua construção narrativa, que reflete o tratamento do tempo presente no conteúdo. Deste modo, a estrutura do texto dialoga com o tema, dando unidade ao conjunto do romance. É possível observar isso ao comparar o início da história com seu fim. As primeiras três semanas de Hans Castorp no sanatório são narradas minuciosamente, pois a personagem ainda não se adaptou ao ambiente e tudo é uma novidade. À medida que os anos de sua estadia passam, durante os quais se habitua à nova rotina, os eventos narrados tornam-se cada vez mais esparsamente localizáveis no tempo, muitas vezes sendo impossível determinar sua duração ou o período que os separa entre si.  
@@ -59,14 +61,17 @@ Neste caso, a questão da percepção subjetiva de modo não-uniforme do tempo f
   
 Baseando-se na teoria da relatividade de Einstein, Mikhail Bakhtin pro-põe como "categoria conteudístico-formal da literatura" o conceito de cronotopo, descrevendo-o como a "interligação fundamental das relações temporais e espaciais, artisticamente assimiladas em literatura" (BAKHTIN, 2014, p. 211). Neste sentido, a relação entre tempo e espaço formam um conjunto que determina a unidade artística e literária. Nas palavras do autor:  
   
+{:.quote}  
 No cronotopo artístico-literário ocorre a fusão dos indícios espaciais e temporais num todo compreensivo e concreto. Aqui o tempo condensa-se, comprime-se, torna-se artisticamente visível; o próprio espaço intensifica-se, penetra no movimento do tempo, do enredo e da história. Os índices do tempo transparecem no espaço, e o espaço reveste-se de sentido e é medido com o tempo. Esse cruzamento de séries e a fusão de sinais caracterizam o cronotopo artístico (BAKHTIN, 2014, p. 211).  
   
 Considerando a visão bakhtiniana de uma base ética "fundada num aqui e num agora vinculados a formas de apreensão do mundo, histórica e socialmente concebidas" (SOBRAL, 2017, p. 139), Sobral descreve o cronotopo em cinco aspectos:  
   
+{:.quote}  
 As características básicas do conceito de cronotopo são: (a) o tempo e o espaço estão ligados de modo intrínseco, necessário; (b) o tempo e o espaço são o continente da atividade, embora nem sempre se mostrem visivelmente nesta; (c) o tempo e o espaço unidos no cronotopo variam de acordo com as ordens, aspectos, séries ou momentos do universo (ritmos distintos entre os organismos, os indivíduos, as sociedades); (d) o sentido de tempo e espaço não é único, variando de acordo com a "posição" do agente da percepção; (e) as categorias de tempo e espaço são históricas, pois variam em relação a alterações das necessidades humanas de percepção (SOBRAL, 2017, pp. 138-139).  
   
 Na sua Poética, Aristóteles (2011) já revela a importância do espaço e do tempo como elementos do enredo. Segundo o filósofo, o enredo consiste em uma série de ações que, por sua vez, só podem acontecer em meio a um tempo e um espaço delimitados. Neste caso, as relações estabelecidas entre estes elementos será um aspecto determinante na definição de um gênero:  
   
+{:.quote}  
 O cronotopo tem um significado fundamental para os gêneros na literatura. Pode-se dizer francamente que o gênero e as variedades de gênero são determinadas justamente pelo cronotopo, sendo que em literatura o princípio condutor do cronotopo é o tempo (BAKHTIN, 2014, p. 212).  
    
 Deste modo, Machado (2017, p. 159) observa que os gêneros se estabelecem com base em certas tradições, "permitindo a reconstrução da imagem espaciotemporal da representação estética que orienta o uso da linguagem". Segundo a autora, uma "concepção dialógica do tempo e das culturas" revela a existência cultural -- e histórica, portanto -- dos gêneros, pois "enquanto o espaço é social, o tempo é sempre histórico".  
@@ -75,6 +80,7 @@ Segundo Amorim (2016), a preocupação de Bakhtin é tratar a concepção de tem
   
 Neste sentido, Bakhtin entende que a compreensão da obra como um todo requer considerar o emaranhado de pontos de vista que a compõem, uma vez que em todo acontecimento "cada participante ocupa sua posição única" na sua totalidade, a qual "pressupõe um ponto de distância em relação a cada um e a todos juntos". Então, ele ressalta a importância do auxílio do autor para dominar o todo de uma obra:  
   
+{:.quote}  
 Vivenciar empaticamente com o autor, visto que ele expressou a si mesmo em dada obra, não é vivenciar empaticamente a sua vida interior \[. . . \] no sentido em que vivenciamos empaticamente com uma personagem, mas é vivenciar empaticamente com a sua ativa diretriz criadora para o objeto da representação, isto é, já é uma co-criação; contudo, essa relação criadora convivenciável do autor é a relação propriamente estética passível de explicação e ela, evidentemente, não pode ser interpretada como vivenciamento empático \[. . . \] (BAKHTIN, 2003, p. 60).  
   
 Na visão de Bakhtin, toda obra se constitui em um todo artístico composto por elementos estéticos indispensáveis. Além disso, considera que também há "diversos valores estéticos concretos artisticamente significativos", mas sem posição interior autônoma, uma vez que, tratando-se do conjunto artístico, "nem todo elemento esteticamente significativo possui vida interior ou é acessível ao vivenciamento empático", fato que ocorre apenas com personagens (BAKHTIN, 2003, pp. 61-62). Neste caso, "o todo estético não se co-vivencia mas é criado de maneira ativa (tanto pelo autor como pelo contemplador; neste sentido admite-se dizer que o espectador co-vivencia com a atividade criadora do autor) \[. . . \]" (BAKHTIN, 2003, pp. 61-62).  
@@ -83,6 +89,7 @@ Por sua vez, Bakhtin entende o sujeito como "o centro organizador do conteúdo-f
   
 Essa orientação axiológica e essa condensação do mundo em torno do homem criam para ele uma realidade estética diferente da realidade cognitiva e ética (da realidade do ato, da realidade ética do acontecimento único e singular do existir), mas, evidentemente, não é uma realidade indiferente a elas (BAKHTIN, 2003, p. 173).  
   
+{:.quote}  
 Esta orientação axiológica, portanto, pode ser observada ao se analisar um cronotopo. Segundo Fiorin (2018, p. 145), "os textos literários revelam-nos os crono-topos de épocas passadas e, por conseguinte, a representação do mundo que tinha a sociedade em que eles surgiram". Neste sentido, o mundo pode ser revelado por meio de um cronotopo, que permite relacionar o mundo real ao mundo representado. Portanto, conclui, "o cronotopo é uma categoria conteudístico-formal, que mostra a interligação fundamental das relações espaciais e temporais, representadas nos textos, principalmente literários".  
   
 # 4. O Cronotopo em *A Montanha Mágica*  
