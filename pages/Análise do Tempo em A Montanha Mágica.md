@@ -2,7 +2,7 @@
 share: true  
 ---  
 <style type="text/css">  
-.quote {  
+p .quote {  
 color: red;   
 font-size: 11pt;   
 margin-left: 2cm;  
