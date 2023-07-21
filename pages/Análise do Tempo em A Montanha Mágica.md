@@ -4,8 +4,19 @@ share: true
 <style type="text/css">  
 .quote {  
 color: red;   
-font-size: 13px;   
-margin-left: 50px;  
+font-size: 11pt;   
+margin-left: 2cm;  
+line-height:1cm;  
+}  
+.resumo {  
+font-size: 11pt;  
+margin-left: 2cm;  
+line-height: 1cm;  
+}  
+p {  
+text-align: justify;  
+line-height:1.5cm;  
+font-size: 12pt;  
 }  
 </style>  
   
