@@ -1,7 +1,13 @@
 ---  
 share: true  
 ---  
-  
+<style type="text/css">  
+.quote {  
+color: red;   
+font-size: 13px;   
+margin-left: 50px;  
+}  
+</style>  
   
 Caio Fonseca[^1]  
   
